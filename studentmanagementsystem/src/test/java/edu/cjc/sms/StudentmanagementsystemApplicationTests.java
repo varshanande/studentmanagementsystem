@@ -1,4 +1,4 @@
-package edu.cjc.sms.app;
+package edu.cjc.sms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

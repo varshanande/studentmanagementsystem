@@ -1,4 +1,4 @@
-package edu.cjc.sms.app;
+package edu.cjc.sms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
